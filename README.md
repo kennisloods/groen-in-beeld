@@ -1,4 +1,4 @@
-# groen-in-beeld
+# Groen in Beeld
 Geeft op peildatum een overzicht van hoeveel groen er in de gemeente Rotterdam gepland is voor realisatie in of voor 2022.
 
 ## toelichting
